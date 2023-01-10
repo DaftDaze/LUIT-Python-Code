@@ -29,7 +29,6 @@ def rerun_script():
         cont = input("Would you like to create more hostnames? yes/no > ")
 
     if cont == "yes":
-        print("yes")
         break
     else:
         print("GoodBye!")
